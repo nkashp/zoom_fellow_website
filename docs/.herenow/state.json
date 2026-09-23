@@ -1,0 +1,25 @@
+{
+  "publishes": {
+    "brisk-glacier-ybkh": {
+      "siteUrl": "https://brisk-glacier-ybkh.here.now/",
+      "claimToken": "fd2675225465673c39620ad816b968535862dda1ba1bf45d167b656ef98eace3",
+      "claimUrl": "https://here.now/claim?slug=brisk-glacier-ybkh&token=fd2675225465673c39620ad816b968535862dda1ba1bf45d167b656ef98eace3",
+      "expiresAt": "2026-04-07T09:17:53.654Z"
+    },
+    "kindly-sprout-cb9c": {
+      "siteUrl": "https://kindly-sprout-cb9c.here.now/",
+      "claimToken": "b36ec88cdc816ae77fb52fb7ff360fea04c016346dcdcc688c3c20ac82d72501",
+      "claimUrl": "https://here.now/claim?slug=kindly-sprout-cb9c&token=b36ec88cdc816ae77fb52fb7ff360fea04c016346dcdcc688c3c20ac82d72501",
+      "expiresAt": "2026-04-07T09:32:07.462Z"
+    },
+    "urban-guitar-43n6": {
+      "siteUrl": "https://urban-guitar-43n6.here.now/",
+      "claimToken": "f879f889ea705c95969682fdbcadf04c6ada38857cf8dade127918723f1b7b4e",
+      "claimUrl": "https://here.now/claim?slug=urban-guitar-43n6&token=f879f889ea705c95969682fdbcadf04c6ada38857cf8dade127918723f1b7b4e",
+      "expiresAt": "2026-04-07T09:32:34.562Z"
+    },
+    "brisk-dory-awmd": {
+      "siteUrl": "https://brisk-dory-awmd.here.now/"
+    }
+  }
+}
